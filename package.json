@@ -1,0 +1,16 @@
+{
+  "name": "blogging",
+  "version": "1.0.0",
+  "description": "Mern app to learn fullstack",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon" 
+   
+  },
+  "keywords": [],
+  "author": "Nidhi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
